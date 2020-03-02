@@ -16,3 +16,7 @@
 ## Day3
 
 1. **Task 1**: Create a portfolio site for Solution Anywhere Company.
+
+## Day4
+
+1. **Task 1**: [Basic CSS Styles](https://naughty-yonath-5813bf.netlify.com)
